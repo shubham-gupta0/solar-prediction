@@ -24,7 +24,7 @@ This project aims to develop a smart predicting system for solar energy generati
 6. *Optimization and Decision-making*: Use the system's insights to optimize resource allocation and make informed decisions regarding solar energy system deployment and energy storage solutions.
 
 ## Contributors
-- [Shubham](https://github.com/yourusername)
+- [Shubham](https://github.com/shubham-gupta0)
 - [Amit](https://github.com/amit-kr26)
 - [Khushdeep](https://github.com/khushdeep-17)
 
