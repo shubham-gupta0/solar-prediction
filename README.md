@@ -24,17 +24,8 @@ This project aims to develop a smart predicting system for solar energy generati
 6. *Optimization and Decision-making*: Use the system's insights to optimize resource allocation and make informed decisions regarding solar energy system deployment and energy storage solutions.
 
 ## Contributors
-- [Your Name](https://github.com/yourusername)
-- [Collaborator 1](https://github.com/collaborator1)
-- [Collaborator 2](https://github.com/collaborator2)
+- [Shubham](https://github.com/yourusername)
+- [Amit](https://github.com/amit-kr26)
+- [Khushdeep](https://github.com/khushdeep-17)
 
-## License
-This project is licensed under the [MIT License](LICENSE).
 
-## Acknowledgements
-- Acknowledge any datasets, libraries, or resources used in the project.
-- Mention any mentors, advisors, or supporters who contributed to the project's development.
-
----
-
-Feel free to customize this README template according to your project's specific details and requirements. Good luck with your hackathon project!
